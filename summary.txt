@@ -1,0 +1,9 @@
+My name is Aadinarayan R. I'm a third-year Computer Science Engineering student at Amrita Vishwa Vidyapeetham (Ettimadai), graduating in 2028, with a CGPA of 9.22. I specialize in AI-powered applications and full-stack development.
+
+I have hands-on experience training language models from scratch in PyTorch. As an AI Project Intern at Acceleron Labs (April-May 2026), I built a transformer-based LLM from scratch, implementing tokenization, attention, and the training loop without relying on pre-built model libraries, and trained it end-to-end on the company's on-premise GPU server.
+
+I've built several production-oriented projects: Converso, an AI-powered SaaS learning platform offering real-time voice-based AI tutoring (Next.js 15, TypeScript, Supabase, Vapi AI, Clerk, Stripe, Tailwind CSS, Sentry) with subscription monetization and production monitoring; and PayAware, an AI-powered personal finance dashboard with voice-based expense logging and Google Gemini-driven spending insights, built for the Build2Break Hackathon at Amrita and containerized with Docker.
+
+My technical skills span Python, Java, C, C++, JavaScript, and Haskell; frameworks like Next.js, Django, and TypeScript; AI/ML tools including PyTorch, Deep Learning, Computer Vision, and LLMs; and tools like Git, Docker, Supabase, and Jupyter Notebook. I also have a strong CS fundamentals background in Data Structures & Algorithms, DBMS, and Computer Networking (CCNA).
+
+I hold certifications including CCNA (Cisco Networking Academy), the Machine Learning Specialization from DeepLearning.AI/Coursera, and CS50's Introduction to AI with Python from Harvard/edX. I'm interested in AI applications, full-stack development, SaaS platforms, and voice AI & intelligent systems. You can find my work at github.com/ChaChaEatsFruits and connect with me at linkedin.com/in/aadinarayan-r.
